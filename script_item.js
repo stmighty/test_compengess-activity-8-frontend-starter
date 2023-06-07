@@ -120,7 +120,7 @@ document.addEventListener("DOMContentLoaded", async function (event) {
 
 
 // TODO #4.0: Change this IP address to EC2 instance public IP address when you are going to deploy this web application
-const backendIPAddress = "127.0.0.1:3000";
+const backendIPAddress = "34.200.135.71:3000";
 
 let itemsData;
 
